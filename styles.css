@@ -84,5 +84,5 @@ caption {
     letter-spacing: 1px;
 }
   body{
-    background-image: url(Fon.jpg);
+    background-image: url(Fon.jpg) no-repeat;
   }
